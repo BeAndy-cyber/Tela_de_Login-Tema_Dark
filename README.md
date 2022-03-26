@@ -8,7 +8,7 @@
 
 <div>
   <h1>Aparência em desktops</h1>
-<img height="500em" width="950em" src="https://github.com/BeAndy-cyber/Tela_de_Login-Tema_Dark/blob/main/img/Desktop-tela-de-login-tema-dark.jpg"/> 
+<img height="500px" src="https://github.com/BeAndy-cyber/Tela_de_Login-Tema_Dark/blob/main/img/Desktop-tela-de-login-tema-dark.jpg"/> 
   </div>
   
   <div>
