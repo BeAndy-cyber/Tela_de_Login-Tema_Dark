@@ -1,14 +1,9 @@
-# Tela de login simples
+# Tela de login contendo:
 
-<h1>Contem</h1>
-<ol>
-Tema dark;
-Responsivo;
-Adaptavél em computadores e dispositovos móveis;
-Imagem animada feita no site Storyset;
-</ol>
-=======
-# Tela de login responsiva tema dark feita usando HTML e CSS
+.HTML e CSS;<br>
+.Tema dark;<br>
+.Responsividade;<br>
+.Adaptabilidade em computadores e dispositovos móveis;<br>
+.Imagem animada feita no site Storyset;<br>
 
- 
->>>>>>> a524ca9f0ce6d847ca916e935424e0c48205c6f5
+
