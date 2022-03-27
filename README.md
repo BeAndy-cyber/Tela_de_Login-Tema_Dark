@@ -5,7 +5,7 @@
   <li>Tema dark</li>
   <li>Responsividade</li>
   <li>Adaptabilidade em desktops e dispositivos mobile</li>
-<li>Ilustração animada feita no site Storyset (Obs: as imagens presentes no README NÃO são animadas)</li>
+  <li>Ilustração animada feita no site <a href="https://storyset.com/people">Storyset</a> (Obs: as imagens presentes no README NÃO são animadas)</li>
 </ul><br>
   </div>
  
