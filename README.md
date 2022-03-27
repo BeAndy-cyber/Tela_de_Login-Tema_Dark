@@ -31,7 +31,7 @@ cellpadding="10">
 
 </tr>
 </table>
-  <p><b>Caso a imagem não apareça ou o dimensionamento esteja incorreto, basta clicar no texto/imagem para que possa visualizar o arquivo</b></p>
+  <p><b>Caso a imagem não apareça, o dimensionamento esteja incorreto ou apenas queira observar detalhadamente, basta clicar no texto/imagem para que possa visualizar o arquivo</b></p>
   </div>
 
 
