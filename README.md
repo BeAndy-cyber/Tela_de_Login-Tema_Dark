@@ -1,5 +1,13 @@
-# Tela de login contendo:
+# Tela de Login com Tema Dark
+
+ <div>
+<p>
+O projeto foi realizado seguindo as intruções do vídeo <a href="https://www.youtube.com/watch?v=69-WfrVBli8&list=PLYOu_6V97DNvJTfT3wZCSZIcqJ11aFqax&index=134">TELA DE LOGIN COM TEMA DARK | HTML + CSS</a> no canal do YouTube do <a href="https://www.youtube.com/channel/UCdo5Euk5c2GKCOfQ0d_gKOg">Markzuel</a>
+</p><br>
+  </div>
+
 <div>
+  <h2>O projeto contém:</h2>
 <ul>
   <li>HTML e CSS</li>
   <li>Tema dark</li>
@@ -9,12 +17,8 @@
 </ul><br>
   </div>
  
- <div>
-<p>
-O projeto foi realizado seguindo as intruções do vídeo <a href="https://www.youtube.com/watch?v=69-WfrVBli8&list=PLYOu_6V97DNvJTfT3wZCSZIcqJ11aFqax&index=134">TELA DE LOGIN COM TEMA DARK | HTML + CSS</a> no canal do YouTube do <a href="https://www.youtube.com/channel/UCdo5Euk5c2GKCOfQ0d_gKOg">Markzuel</a>
-</p>
-
-  <h1>Resultado final:</h1>
+<div>
+  <h2>Resultado final:</h2>
 <table border="0" width="100%"
 cellpadding="10">
 <tr>
@@ -31,6 +35,7 @@ cellpadding="10">
 
 </tr>
 </table>
+   
   <p><b>Caso a imagem não apareça, o dimensionamento esteja incorreto ou apenas queira observar detalhadamente, basta clicar no texto/imagem para que possa visualizar o arquivo</b></p>
   </div>
 
