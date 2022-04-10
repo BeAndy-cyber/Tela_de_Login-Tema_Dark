@@ -25,18 +25,18 @@ cellpadding="10">
 
 <td width="" valign="top">
  <h2>Aparência desktops</h2>
-<img height="330px" src="https://github.com/BeAndy-cyber/Tela_de_Login-Tema_Dark/blob/main/img/Desktop-tela-de-login-tema-dark.jpg" alt="Representação da aparência da tela de login em um computador"/> 
+<img height="330px" src="https://github.com/BeAndy-cyber/Tela_de_Login-Tema_Dark/blob/main/imgResultadoFinal/Desktop-tela-de-login-tema-dark.jpg" alt="Representação da aparência da tela de login em um computador"/> 
 </td>
 
 <td width="25%" align="center">
 <h2>Aparência mobile</h2>
-<img   width="200px" src="https://github.com/BeAndy-cyber/Tela_de_Login-Tema_Dark/blob/main/img/telaLogin(Samsung%20Galaxy%20S8+).jpg" alt="Representação da aparência da tela de login em um dispositivo Samsung Galaxy S8"/> 
+<img   width="200px" src="https://github.com/BeAndy-cyber/Tela_de_Login-Tema_Dark/blob/main/imgResultadoFinal/telaLogin(Samsung%20Galaxy%20S8%2B).jpg" alt="Representação da aparência da tela de login em um dispositivo Samsung Galaxy S8"/> 
 </td>
 
 </tr>
 </table>
    
-  <p><b>Caso a imagem não apareça, o dimensionamento esteja incorreto ou apenas queira observar detalhadamente, basta clicar no texto/imagem para que possa visualizar o arquivo</b></p>
+  <p><b>Caso a imagem não apareça, o dimensionamento esteja incorreto ou apenas queira observar detalhadamente, basta clicar no texto/imagem para que possa visualizar o arquivo ou ir até a pasta <a href="https://github.com/BeAndy-cyber/Tela_de_Login-Tema_Dark/tree/main/imgResultadoFinal">imgResultadoFinal</a>, onde as imagens estão depositadas</b></p>
   </div>
 
 
